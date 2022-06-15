@@ -64,3 +64,4 @@ pdflatex lectureXX.tex
 
 5. Submit a pull request to have your lecture notes merged.
 
+(note) instructions courtesy of Stanford Vision Lab https://github.com/StanfordVL/cs131_notes
