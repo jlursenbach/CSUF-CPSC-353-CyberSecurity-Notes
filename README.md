@@ -1,5 +1,6 @@
 # CyberSecurity-Notebook-CPSC-353
 notes for CPSC 375 course
+### Please feel welcome to contribute, and create better notes for all students!
 
 ## Instructions for creating class notes
 
