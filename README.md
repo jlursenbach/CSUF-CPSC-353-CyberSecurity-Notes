@@ -1,4 +1,4 @@
-# CyberSecurity-Notebook-CPSC-375
+# CyberSecurity-Notebook-CPSC-353
 notes for CPSC 375 course
 
 ## Instructions for creating class notes
