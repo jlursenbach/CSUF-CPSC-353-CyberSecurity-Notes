@@ -1,4 +1,4 @@
-# Chapter 3 (Passwords)
+# Chapter 3 Passwords
 
 a similar ppt:
 
